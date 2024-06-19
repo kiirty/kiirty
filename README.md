@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @kiirty
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning DSA using C++ 
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am looking for something cool!
-
-<!---
-kiirty/kiirty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am Kirti Garg. Currently, a BTech (CSE),3rd year student. I am working on coding skills and I am passionate towards my coding journey in the field of web development. I am very well known about the language C++, Java and Python. currently, focusing on the projects based on Web dev.
